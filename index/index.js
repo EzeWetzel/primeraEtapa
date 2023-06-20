@@ -39,7 +39,7 @@ function crearCuadroMayor(nombreCuadro, nombreFila, nombreColumna) {
     for (let a = 1; a <= 9; a++) {
         nArray.push(a.toString())
     };
-
+// mi primer commit
     let lArray = ["a", "b", "c", "d", "e", "f", "g", "h", "i"];
     let n = 1;
 
